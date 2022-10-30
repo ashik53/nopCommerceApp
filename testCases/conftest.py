@@ -33,10 +33,11 @@ def browser(request):
 ########## Pytest HTML report###########
 
 # It is hook for Adding Environment info into HTML Report
-def pytest_configure(config):
-    config._metadata["Project Name"] ="nop Commerce"
-    config._metadata["Module Name"] = "Customers"
-    config._metadata["Tester"] = "Ashik"
+#commenting for successful build creation in jenkins
+#def pytest_configure(config):
+   # config._metadata["Project Name"] ="nop Commerce"
+    #config._metadata["Module Name"] = "Customers"
+   # config._metadata["Tester"] = "Ashik"
 
 # It is hook for delete/modify Environment info to HTML Report
 @pytest.mark.optionalhook

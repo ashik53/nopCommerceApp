@@ -175,3 +175,48 @@ DevTools listening on ws://127.0.0.1:50555/devtools/browser/ba0b817f-9362-4d91-9
 console.error: services.settings: 
   main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1667111809917	geckodriver	INFO	Listening on 127.0.0.1:56371
+1667111813101	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\laptop\\AppData\\Local\\Temp\\rust_mozprofiledRdJQN"
+1667111814101	Marionette	INFO	Marionette enabled
+1667111814110	Marionette	INFO	Listening on port 56381
+Read port: 56381
+WebDriver BiDi listening on ws://127.0.0.1:56372
+1667111814523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\laptop\\AppData\\Local\\Temp\\rust_mozprofiledRdJQN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56372/devtools/browser/97a8cb57-4411-4633-ba01-969393dede6e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1667111947139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:82613
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:78223
+n.ajax@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:86:4297
+t@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42174
+initOnce@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:42576
+init@https://admin-demo.nopcommerce.com/js/HomeIndex.Footer.scripts.js?v=p85S1lLwdXzndIrgTxy2jRef03c:92:43224
+@https://admin-demo.nopcommerce.com/admin/:2517:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30005
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8:2:30307
+1667111947814	geckodriver	INFO	Listening on 127.0.0.1:56759
+1667111951357	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "56760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\laptop\\AppData\\Local\\Temp\\rust_mozprofileXVNkzr"
+1667111952051	Marionette	INFO	Marionette enabled
+1667111952064	Marionette	INFO	Listening on port 56803
+Read port: 56803
+WebDriver BiDi listening on ws://127.0.0.1:56760
+1667111952292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\laptop\\AppData\\Local\\Temp\\rust_mozprofileXVNkzr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56760/devtools/browser/35a389e7-f854-4c59-9dc4-1ed4d6e43603
+1667113241471	geckodriver	INFO	Listening on 127.0.0.1:57423
+1667113244555	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "--remote-debugging-port" "57424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\laptop\\AppData\\Local\\Temp\\rust_mozprofileCLZghT"
+1667113245228	Marionette	INFO	Marionette enabled
+1667113245237	Marionette	INFO	Listening on port 57439
+Read port: 57439
+WebDriver BiDi listening on ws://127.0.0.1:57424
+1667113245438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1667117488854	Marionette	INFO	Stopped listening on port 57439
+1667117488862	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1667117489505	geckodriver	INFO	Listening on 127.0.0.1:57656

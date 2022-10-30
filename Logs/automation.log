@@ -873,3 +873,543 @@
 '10/27/2022 09:12:59 PM - INFO : **********  Verifying the login test ********
 '10/27/2022 09:12:59 PM - INFO : **********  Verifying the login test ********
 '10/27/2022 09:12:59 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:35:41 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:35:41 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:35:41 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:35:41 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:35:41 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:35:42 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:35:42 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:35:42 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:35:42 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:35:42 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:35:43 PM - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+'10/30/2022 12:35:43 PM - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+'10/30/2022 12:35:43 PM - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+'10/30/2022 12:35:43 PM - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+'10/30/2022 12:35:43 PM - INFO : About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+'10/30/2022 12:35:58 PM - INFO : Driver has been saved in cache [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249]
+'10/30/2022 12:35:58 PM - INFO : Driver has been saved in cache [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249]
+'10/30/2022 12:35:58 PM - INFO : Driver has been saved in cache [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249]
+'10/30/2022 12:35:58 PM - INFO : Driver has been saved in cache [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249]
+'10/30/2022 12:35:58 PM - INFO : Driver has been saved in cache [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249]
+'10/30/2022 12:36:01 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:36:01 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:36:01 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:36:01 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:36:01 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:36:11 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:36:11 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:36:11 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:36:11 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:36:11 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:36:11 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:36:11 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:36:11 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:36:11 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:36:11 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:36:17 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:36:17 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:36:17 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:36:17 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:36:17 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:36:26 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:36:26 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:36:26 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:36:26 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:36:26 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:36:27 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:36:27 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:36:27 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:36:27 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:36:27 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:36:28 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:36:28 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:36:28 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:36:28 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:36:28 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:36:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:36:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:36:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:36:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:36:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:36:47 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:36:47 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:36:47 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:36:47 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:36:47 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:38:56 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:38:56 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:38:56 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:38:56 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:38:56 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:39:06 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:39:06 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:39:06 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:39:06 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:39:06 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:39:06 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:39:06 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:39:06 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:39:06 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:39:06 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:39:20 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:39:20 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:39:20 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:39:20 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:39:20 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:43:37 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:43:37 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:43:37 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:43:37 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:43:37 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:43:37 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:43:37 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:43:37 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:43:37 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:43:37 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:43:39 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:43:39 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:43:39 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:43:39 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:43:39 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:43:40 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:43:40 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:43:40 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:43:40 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:43:40 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:43:49 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:43:49 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:43:49 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:43:49 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:43:49 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:43:49 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:43:49 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:43:49 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:43:49 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:43:49 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:43:57 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:43:57 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:43:57 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:43:57 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:43:57 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:44:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:44:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:44:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:44:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:44:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:44:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:44:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:44:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:44:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:44:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:44:09 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:44:09 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:44:09 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:44:09 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:44:09 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:44:35 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:44:35 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:44:35 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:44:35 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:44:35 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 12:44:58 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:58 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:58 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:58 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:44:58 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:06 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:07 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:07 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:09 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:45:09 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:45:09 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:45:09 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:45:09 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:45:12 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:12 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:12 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:12 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:12 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:45:13 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:13 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:13 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:13 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:13 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:45:14 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:14 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:14 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:14 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:14 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:45:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:45:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:45:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:45:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:45:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:16 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:16 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:16 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:16 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:16 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:16 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:16 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:16 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:16 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:16 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:17 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:17 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:17 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:17 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:17 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:19 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:50:19 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:50:19 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:50:19 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:50:19 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 12:50:27 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:50:27 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:50:27 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:50:27 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:50:27 PM - INFO : ************* Login succesful **********
+'10/30/2022 12:50:27 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:50:27 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:50:27 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:50:27 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:50:27 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 12:50:33 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:50:33 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:50:33 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:50:33 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:50:33 PM - INFO : ************* Providing customer info **********
+'10/30/2022 12:50:42 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:42 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:42 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:42 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:42 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:43 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:43 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:43 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:43 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:43 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:44 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:44 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:44 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:44 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:44 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:45 PM - INFO : **********  Test_001_Login  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Test_001_Login  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Test_001_Login  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Test_001_Login  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Test_001_Login  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Verifying Home Page Title  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Verifying Home Page Title  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Verifying Home Page Title  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Verifying Home Page Title  ********
+'10/30/2022 12:50:45 PM - INFO : **********  Verifying Home Page Title  ********
+'10/30/2022 12:50:49 PM - ERROR : **********  Home Page Title test case failed ********
+'10/30/2022 12:50:49 PM - ERROR : **********  Home Page Title test case failed ********
+'10/30/2022 12:50:49 PM - ERROR : **********  Home Page Title test case failed ********
+'10/30/2022 12:50:49 PM - ERROR : **********  Home Page Title test case failed ********
+'10/30/2022 12:50:49 PM - ERROR : **********  Home Page Title test case failed ********
+'10/30/2022 12:50:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:52 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:52 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:52 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:52 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:52 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:56 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:56 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:56 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:56 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:56 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:50:56 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:56 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:56 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:56 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:56 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:50:57 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:57 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:57 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:57 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:57 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:50:59 PM - INFO : **********  Test_002_ddt_Login ********
+'10/30/2022 12:50:59 PM - INFO : **********  Test_002_ddt_Login ********
+'10/30/2022 12:50:59 PM - INFO : **********  Test_002_ddt_Login ********
+'10/30/2022 12:50:59 PM - INFO : **********  Test_002_ddt_Login ********
+'10/30/2022 12:50:59 PM - INFO : **********  Test_002_ddt_Login ********
+'10/30/2022 12:50:59 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:59 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:59 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:59 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:50:59 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 12:51:01 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:51:01 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:51:01 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:51:01 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:51:01 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 12:51:01 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:51:01 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:51:01 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:51:01 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:51:01 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 12:51:02 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:51:02 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:51:02 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:51:02 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 12:51:02 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:19 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:19 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:19 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:19 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:19 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:22 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 01:00:22 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 01:00:22 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 01:00:22 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 01:00:22 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 01:00:25 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:25 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:25 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:25 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:25 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 01:00:26 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:26 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:26 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:26 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:26 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 01:00:27 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:27 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:27 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:27 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:27 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 01:00:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 01:00:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 01:00:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 01:00:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 01:00:29 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 01:00:38 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 01:00:38 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 01:00:38 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 01:00:38 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 01:00:38 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:27:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:21 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:21 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:21 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:21 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:21 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:22 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:22 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:22 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:22 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:22 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:24 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:27:24 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:27:24 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:27:24 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:27:24 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:27:34 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:27:34 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:27:34 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:27:34 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:27:34 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:27:34 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:27:34 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:27:34 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:27:34 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:27:34 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:27:40 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:27:40 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:27:40 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:27:40 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:27:40 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:27:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:49 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:27:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:50 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:27:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:51 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:27:53 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:27:53 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:27:53 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:27:53 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:27:53 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:28:07 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:28:07 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:28:07 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:28:07 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:28:07 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:29:50 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:29:50 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:29:50 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:29:50 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:29:50 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:29:51 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:29:51 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:29:51 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:29:51 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:29:51 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:29:52 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:29:52 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:29:52 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:29:52 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:29:52 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:29:54 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:29:54 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:29:54 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:29:54 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:29:54 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:30:05 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:30:05 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:30:05 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:30:05 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:30:05 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:30:05 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:30:05 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:30:05 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:30:05 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:30:05 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:30:11 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:30:11 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:30:11 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:30:11 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:30:11 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:30:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:30:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:30:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:30:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:30:20 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:30:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:30:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:30:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:30:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:30:20 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:30:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:30:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:30:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:30:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:30:21 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:30:23 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:30:23 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:30:23 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:30:23 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:30:23 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:30:39 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:30:39 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:30:39 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:30:39 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:30:39 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:31:34 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:31:34 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:31:34 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:31:34 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:31:34 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:31:34 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:31:34 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:31:34 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:31:34 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:31:34 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:31:35 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:31:35 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:31:35 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:31:35 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:31:35 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:31:37 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:31:37 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:31:37 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:31:37 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:31:37 PM - INFO : ************* Test_003_AddCustomer **********
+'10/30/2022 02:31:52 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:31:52 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:31:52 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:31:52 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:31:52 PM - INFO : ************* Login succesful **********
+'10/30/2022 02:31:52 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:31:52 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:31:52 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:31:52 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:31:52 PM - INFO : ******* Starting Add Customer Test **********
+'10/30/2022 02:32:02 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:32:02 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:32:02 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:32:02 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:32:02 PM - INFO : ************* Providing customer info **********
+'10/30/2022 02:32:11 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:32:11 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:32:11 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:32:11 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:32:11 PM - INFO : ====== WebDriver manager ======
+'10/30/2022 02:32:12 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:32:12 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:32:12 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:32:12 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:32:12 PM - INFO : Get LATEST chromedriver version for google-chrome 106.0.5249
+'10/30/2022 02:32:13 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:32:13 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:32:13 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:32:13 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:32:13 PM - INFO : Driver [C:\Users\laptop\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+'10/30/2022 02:32:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:32:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:32:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:32:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:32:15 PM - INFO : **********  Verifying the login test ********
+'10/30/2022 02:32:32 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:32:32 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:32:32 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:32:32 PM - INFO : **********  Login test is passed  ********
+'10/30/2022 02:32:32 PM - INFO : **********  Login test is passed  ********
